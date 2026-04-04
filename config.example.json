@@ -1,0 +1,9 @@
+{
+  "brokerUrl": "mqtt://localhost",
+  "brokerPort": 1883,
+  "topics": {
+    "subscribe": "serial/your-topic/out",
+    "publish": "serial/your-topic/in"
+  },
+  "debug": false
+}
