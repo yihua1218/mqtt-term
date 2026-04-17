@@ -64,9 +64,10 @@ npm install
     "brokerUrl": "mqtt://your-broker-address",
     "brokerPort": 1883,
     "topics": {
-    "subscribe": "serial/CM/out",
-    "publish": "serial/CM/input"
-    }
+        "subscribe": "serial/CM/out",
+        "publish": "serial/CM/input"
+    },
+    "debug": false
 }
 ```
 

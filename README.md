@@ -63,7 +63,8 @@ mqtt-term/
      "topics": {
        "subscribe": "serial/CM/out",
        "publish": "serial/CM/input"
-     }
+     },
+     "debug": false
    }
    ```
 
